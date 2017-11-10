@@ -1,0 +1,2 @@
+node concat.js
+pause
